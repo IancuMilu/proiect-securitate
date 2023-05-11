@@ -1,0 +1,11 @@
+G:\Proiect-Securitate-AN-3-master\Proiect-Securitate\bin\Debug\Proiect-Securitate.exe.config
+G:\Proiect-Securitate-AN-3-master\Proiect-Securitate\bin\Debug\Proiect-Securitate.exe
+G:\Proiect-Securitate-AN-3-master\Proiect-Securitate\bin\Debug\Proiect-Securitate.pdb
+G:\Proiect-Securitate-AN-3-master\Proiect-Securitate\obj\Debug\Proiect-Securitate.csproj.AssemblyReference.cache
+G:\Proiect-Securitate-AN-3-master\Proiect-Securitate\obj\Debug\Proiect-Securitate.csproj.SuggestedBindingRedirects.cache
+G:\Proiect-Securitate-AN-3-master\Proiect-Securitate\obj\Debug\Proiect_Securitate.MainForm.resources
+G:\Proiect-Securitate-AN-3-master\Proiect-Securitate\obj\Debug\Proiect_Securitate.Properties.Resources.resources
+G:\Proiect-Securitate-AN-3-master\Proiect-Securitate\obj\Debug\Proiect-Securitate.csproj.GenerateResource.cache
+G:\Proiect-Securitate-AN-3-master\Proiect-Securitate\obj\Debug\Proiect-Securitate.csproj.CoreCompileInputs.cache
+G:\Proiect-Securitate-AN-3-master\Proiect-Securitate\obj\Debug\Proiect-Securitate.exe
+G:\Proiect-Securitate-AN-3-master\Proiect-Securitate\obj\Debug\Proiect-Securitate.pdb
